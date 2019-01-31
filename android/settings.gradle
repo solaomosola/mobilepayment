@@ -1,0 +1,3 @@
+rootProject.name = 'mobilepayment'
+
+include ':app'
